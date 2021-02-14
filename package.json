@@ -1,0 +1,9 @@
+{
+  "name": "we-are-coming-soon-site",
+  "version": "0.0.1a",
+  "description": "This is a simple we are coming soon website.",
+  "main": "index.html",
+  "repository": "git@github.com:ExpertKiD/we-are-coming-soon-site.git",
+  "author": "Suman Adhikari",
+  "license": "MIT"
+}
