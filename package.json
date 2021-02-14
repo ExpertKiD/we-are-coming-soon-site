@@ -5,5 +5,9 @@
   "main": "index.html",
   "repository": "git@github.com:ExpertKiD/we-are-coming-soon-site.git",
   "author": "Suman Adhikari",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
 }
